@@ -1,0 +1,11 @@
+{
+  "name": "jp.neuneu9.safe-area-fitter",
+  "displayName": "Safe Area Fitter",
+  "version": "1.0.0",
+  "unity": "2021.3",
+  "description": "Provides safe area RectTransform with Unity.",
+  "author": {
+    "name": "neuneu9",
+    "url": "https://github.com/neuneu9"
+  }
+}
